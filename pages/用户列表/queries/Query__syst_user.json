@@ -13,7 +13,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "Page1",
+    "pageId": "用户列表",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -37,7 +37,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "id": "Page1_Query__syst_user",
+  "id": "用户列表_Query__syst_user",
   "deleted": false,
   "gitSyncId": "63f5c292ebe066565ad916e0_63f5c318ebe066565ad916e7"
 }
